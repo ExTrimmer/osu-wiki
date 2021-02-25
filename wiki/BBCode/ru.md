@@ -1,6 +1,6 @@
 # BBCode
 
-**BBCode** is a [markup langauge](https://en.wikipedia.org/wiki/Markup_language "Wikipedia") that is used in the osu! forums and, to a larger extent, the vast majority of forums on the Internet. Used to enable rich text formatting, it is made up of tags that surround text to denote formatting, attributes, embedding, and more. It is used in various places across the osu! website, such as forum posts, signatures, user pages, and beatmap descriptions.
+**BBCode** - это [язык разметки](https://ru.wikipedia.org/wiki/%D0%AF%D0%B7%D1%8B%D0%BA_%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B8 "Википедия") that is used in the osu! forums and, to a larger extent, the vast majority of forums on the Internet. Used to enable rich text formatting, it is made up of tags that surround text to denote formatting, attributes, embedding, and more. It is used in various places across the osu! website, such as forum posts, signatures, user pages, and beatmap descriptions.
 
 ![The forum post editor with its buttons](img/editor.jpg?1 "The edit box in the forums")
 
