@@ -2,7 +2,7 @@
 
 **Versi** mempunyai beberapa arti:
 
-- Sebuah [kesulitan](/wiki/Beatmap/Difficulty) dalam sebuah [beatmap](/wiki/Beatmap)
+- Sebuah [beatmap](/wiki/Beatmap) dalam sebuah [beatmapset](/wiki/Beatmap/Beatmapsets)
 - Versi angka dari sebuah [file `.osu`](/wiki/osu!_File_Formats/Osu_(file_format))
 - Versi angka dari sebuah [skin](/wiki/Skinning)
 - Build number atau tanggal dari sebuah klien osu!

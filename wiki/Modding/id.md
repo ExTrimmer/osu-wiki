@@ -1,7 +1,5 @@
 # Modding
 
-*Untuk penggunaan lainnya, lihat [Mod (disambiguasi)](/wiki/Disambiguation/Mod).*
-
 **Modding** adalah tindakan memberikan umpan balik pada [beatmap](/wiki/Beatmap) milik pengguna lain. Seorang pengguna yang melakukan modding disebut sebagai *modder*, dan postingan mereka pada diskusi beatmap disebut sebagai *mod*.
 
 Mod digunakan untuk meningkatkan kualitas beatmap untuk mendapatkan [status Ranked](/wiki/Beatmap/Category#ranked). Karena ini merupakan proses yang terperinci dan analitis, melakukan modding pada beatmap merupakan cara yang paling populer bagi para pengguna untuk meningkatkan pemahaman mereka tentang beatmapping.

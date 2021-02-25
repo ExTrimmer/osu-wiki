@@ -1,8 +1,3 @@
----
-outdated: true
-outdated_since: 029eb57bd83c4d5d74fb54d65723f05b44411250
----
-
 # Skryptowanie tła
 
 ![Przykład skryptów w pliku .osb.](img/SBS_Base.jpg "Przykład skryptów w pliku .osb.")

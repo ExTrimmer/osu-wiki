@@ -23,7 +23,7 @@ To summarize the article very briefly (you should really read the whole thing on
 
 # Release Schedule
 
-## ✅ Background user total recalculations \[Done\]
+## ✔️ Background user total recalculations \[Done\]
 
 Starting from the user at rank #1 and working outwards, each user's total pp will be recalculated.
 
@@ -33,19 +33,21 @@ Scores in "best performance" may look to be out of order or not visible.
 
 This is estimated to take 2 days for the majority of active users, and longer for lower ranking users. The initial run is targeting all users above 1,000 total pp, after which we will begin to start a longer running update that may run over a week or so.
 
-## ✅ Re-enabling of global rank history updates \[Done\]
+## ⏱️ Re-enabling of global rank history updates \[Scheduled\]
 
-Rank history graphs will be enabled and updated again throughout Monday (18th January). At this point, all users' global leaderboard ranks will be stable going forward.
+Rank history graphs will be enabled and updated again throughout Monday (19th January). At this point, all users' global leaderboard ranks will be stable going forward.
 
-## ✅ Background user score recalculations \[Done\]
+## ⏱️ Background user score recalculations \[On hold\]
 
-This took 10 days in total (started 18th January, finished 28th January). Note that an initial pass has only covered active users (in the last month) and in some cases, only top 100 scores. This should cover basically all visible scores. We will continue to perform consitency updates for the remaining users and scores over the coming weeks.
+After the initial recalculation, we will begin updating each score for each user. As there are over 3 billion(!) scores, this will take some time. We do not yet have estimated values for this stage. Information will be provided as we make progress.
 
-To make this happens, many pieces of the infrastructure saw optimisation passes and some temporary tweaks were introduced to `osu-performance` (the pp calculater/updater component) to keep things running smoothly.
+We will begin to process scores starting Monday (19th January). More information will be provided here as completion estimates are available.
 
-## ✅ Reindexing \[Done\]
+## ⏱️ Reindexing \[Pending\]
 
-This will fix scores being out of order on profiles, and in some rare cases not being displayed at all. Started on 28th January, this step is estimated to take 2-3 days.
+This will bring all score displays up-to-date, showing the new values for individual scores across all systems.
+
+Note that all *new* scores which are set will be using the new (up-to-date) performance algorithm.
 
 # Summary of changes
 
@@ -117,7 +119,7 @@ As suggested by [**Xexxar**](https://osu.ppy.sh/users/2773526), the following ch
 
 To help illustrate these changes better, consult the graph image below. The blue line refers to the old formula, and the orange line refers to the new one. You can also view this graph live and play around with the settings following [this link](https://www.desmos.com/calculator/rshij9757a).
 
-![](/wiki/shared/news/2021-01-14-performance-points-updates/miss-penalty-multiplier-curve.png)
+![](/wiki/shared/news/2021-01-14-performance-points-updates/miss-penalty-curve.png)
 
 This change seeks to penalize misses on short maps more, while significantly reducing the impact of a small number of misses on longer maps. The one-off 3% penalty for a miss provides incentive for players to hone any 1-miss plays they might still make, but otherwise makes them considerably less punishing on longer plays.
 

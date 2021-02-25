@@ -1,8 +1,3 @@
----
-outdated: true
-outdated_since: 2a73fa15eba9ab6f0c0fbe547d71933628aedc64
----
-
 # Мод (значения)
 
 **Мод** может означать:
