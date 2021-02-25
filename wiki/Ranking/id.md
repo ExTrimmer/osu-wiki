@@ -10,6 +10,8 @@ tags:
 
 # Peringkat
 
+*Untuk penggunaan lainnya, lihat [Rank (disambiguasi)](/wiki/Disambiguation/Rank).*
+
 **Peringkat** (atau "papan peringkat") adalah sebuah daftar yang mengurutkan anggota komunitas osu! berdasarkan kriteria tertentu.
 
 Semua peringkat kecuali peringkat seseorang pada sebuah beatmap dapat dilihat di menu `peringkat` di header situs osu!. Untuk peringkat seseorang pada sebuah beatmap, dapat dilihat di laman info beatmap.

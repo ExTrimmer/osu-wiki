@@ -1,5 +1,4 @@
 ---
-stub: true
 tags:
   - grade
   - ranking
@@ -9,6 +8,6 @@ tags:
 
 Rank mempunyai tiga arti:
 
-- Sama seperti [huruf pada grade](/wiki/Grade).
-- Posisi seorang pemain pada papan peringkat online (umumnya dikenal sebagai [ranking pemain](/wiki/Ranking)).
-- Kata kerja dari "menuju ranking", yang artinya sedang melewati [prosedur beatmap ranking](/wiki/Beatmap_ranking_procedure).
+- Sebuah [grade](/wiki/Grade) berbentuk huruf.
+- [Ranking pemain](/wiki/Ranking) atau posisi seorang pemain pada papan peringkat online.
+- Kata kerja dari "menuju ranked", yang artinya sedang melewati [prosedur beatmap ranking](/wiki/Beatmap_ranking_procedure).
